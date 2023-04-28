@@ -1,0 +1,9 @@
+pandas 
+numpy
+matplotlib
+win32com.client
+PyPDF2
+cmake
+opencv-python
+face_recognition
+cv2
